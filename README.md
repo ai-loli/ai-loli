@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ai-loli
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Web Development and Android Application Development.
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m currently working on projects I love and hoping to make a positive impact in the world.
 
 
 <!---
